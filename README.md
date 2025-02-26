@@ -68,6 +68,7 @@ You can download the latest APK from the **[Releases](https://github.com/your-re
 
 ### **Key Changes**
 1. **Folder Structure**:
+```plaintext
    Aptitude-Speed-Booster-Quiz-App/
   ├── android/               # Android-specific files
   ├── ios/                   # iOS-specific files
@@ -81,9 +82,9 @@ You can download the latest APK from the **[Releases](https://github.com/your-re
   ├── test/                  # Unit and widget tests
   ├── pubspec.yaml           # Dependencies and metadata
   └── README.md              # Project documentation
+```
 
-
-2. **Clean and Concise**:
+3. **Clean and Concise**:
    - The folder structure is now more focused and relevant to developers.
 
 ---

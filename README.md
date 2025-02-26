@@ -16,9 +16,6 @@ A Flutter app designed to help users improve their aptitude skills. Practice que
 
 ### Practice Module
 ![Practice Module](https://github.com/user-attachments/assets/6b841531-df5e-452c-ad85-ed99bcc0fd29)
-
----
-
 ### Revision Module
 ![Revision Module](https://github.com/user-attachments/assets/8e39d669-82f0-4325-a807-90c4dae94345)
 

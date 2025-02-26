@@ -1,0 +1,30 @@
+name: aptitude_booster
+description: A Flutter app for practicing and revising aptitude skills.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.7
+  shared_preferences: ^2.2.2
+  share_plus: ^10.1.4  # Updated to latest version
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0  # Added since transitive dependency was outdated
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  # Changed to match stable version
+
+dependency_overrides:
+  material_color_utilities: ^0.12.0  # Fixing outdated transitive dependency
+
+flutter:
+  uses-material-design: true

@@ -57,7 +57,7 @@ Follow these steps to install and run the app on your local machine.
 - Share the app with others using the **Share** button.  
 
 ## 📦 Download APK  
-You can download the latest APK from the **[Releases](https://github.com/your-repo/releases)** section.  
+You can download the latest APK from the **[Releases](https://github.com/adarshverma7/Aptitude-Speed-Booster-Quiz-App/releases/download/v1.0.0/app-release.apk)** section.  
 
 ## 🛠️ Technologies Used  
 - **Flutter** – For building the cross-platform app.  

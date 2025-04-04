@@ -132,4 +132,6 @@ If you have any questions or feedback, feel free to reach out:
 - **GitHub:** [adarshverma7](https://github.com/adarshverma7)  
 
 
+![GitHub all releases](https://img.shields.io/github/downloads/adarshverma7/Aptitude-Speed-Booster-Quiz-App/total?style=for-the-badge)
+
 

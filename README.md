@@ -1,4 +1,4 @@
-# Aptitude Booster
+# Aptitude Booster    ![GitHub all releases](https://img.shields.io/github/downloads/adarshverma7/Aptitude-Speed-Booster-Quiz-App/total?style=for-the-badge)
 
 A Flutter app designed to help users improve their aptitude skills. Practice questions, track your performance, and boost your aptitude skills with ease!
 
@@ -130,8 +130,5 @@ If you have any questions or feedback, feel free to reach out:
 - **Name:** Adarsh Verma  
 - **Email:** [adarshsamrat678@gmail.com](mailto:your-email@example.com)  
 - **GitHub:** [adarshverma7](https://github.com/adarshverma7)  
-
-
-![GitHub all releases](https://img.shields.io/github/downloads/adarshverma7/Aptitude-Speed-Booster-Quiz-App/total?style=for-the-badge)
 
 
